@@ -69,7 +69,7 @@ def extract_url_pdf(input_url,folder_path=os.getcwd()):
     print("All Pdf files downloaded and Excel File Created")
 
 
-# In[2]:
+# In2[extract_url_pdf](input_url="https://www.irs.gov/publications")
 
 
 
